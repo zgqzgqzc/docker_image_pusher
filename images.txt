@@ -4,3 +4,4 @@ linuxserver/wireguard:1.0.20210914
 jess/wireguard:latest
 weejewel/wg-easy:7-nightly
 gdy666/lucky:latest
+
