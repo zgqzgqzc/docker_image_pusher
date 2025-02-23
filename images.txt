@@ -1,3 +1,4 @@
+dpanel/dpanel:lite
 dpanel/dpanel:latest
 linuxserver/wireguard:1.0.20210914
 jess/wireguard:latest
